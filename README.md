@@ -11,7 +11,7 @@ pip install openpyxl
 
 - Aqui está um código Python que cria um arquivo Excel chamado "exemplo.xlsx" e preenche as colunas "Seu nome" e "Sua idade" com informações fictícias:
 
-# Importar bibliooteca
+# Importar biblioteca
 import openpyxl as xl
 
 # Cria um novo arquivo Excel
